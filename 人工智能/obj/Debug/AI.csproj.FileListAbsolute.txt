@@ -1,0 +1,12 @@
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\bin\Debug\AI.exe.config
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\bin\Debug\AI.exe
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\bin\Debug\AI.pdb
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\obj\Debug\AI.csprojResolveAssemblyReference.cache
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\obj\Debug\AI.exe
+G:\作业\DataStructuresAndAlgorithm-master\人工智障\obj\Debug\AI.pdb
+G:\作业\人工智障\bin\Debug\AI.exe.config
+G:\作业\人工智障\obj\Debug\AI.exe
+G:\作业\人工智障\obj\Debug\AI.pdb
+G:\作业\人工智障\bin\Debug\AI.exe
+G:\作业\人工智障\bin\Debug\AI.pdb
+G:\作业\人工智障\obj\Debug\AI.csprojResolveAssemblyReference.cache
